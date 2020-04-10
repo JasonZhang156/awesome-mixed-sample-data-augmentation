@@ -7,7 +7,7 @@ _ _ _
 ## Basic Method
 We introduce a basic usage of mixed sample data augmentation, which was first proposed in **mixup: Beyond Empirical Risk Minimization [[ICLR2018]](https://arxiv.org/abs/1710.09412) [[code]](https://github.com/facebookresearch/mixup-cifar10)**.
 
-- **Formulation**
+### Formulation
 
 In mixup, the virtual training feature-target samples are produced as,
 
@@ -18,13 +18,13 @@ y˜ = λyi + (1 − λ)yj
 
 where (xi, yi) and (xj, yj) are two feature-target samples drawn at random from the training data, λ∈[0, 1]. The mixup hyper-parameter α controls the strength of interpolation between feature-target pairs and λ∼Beta(α, α).
 
-- **Training Pipeline**
+### Training Pipeline
 
 The simple and basic training pipeline is shown as the following Figure,
 
-![](/image/mixup_pipeline.png "Fig. 1 Mixup training pipeline")
+![](/image/mixup_pipeline.png)
 
-- **Code**
+### Code
 
 The few lines of code necessary to implement mixup training in PyTorch
 
