@@ -10,6 +10,7 @@ We introduce a basic usage of mixed sample data augmentation, which was first pr
 In mixup, the virtual training feature-target samples are produced as,
 
 x˜ = λxi + (1 − λ)xj
+
 y˜ = λyi + (1 − λ)yj
 
 where (xi, yi) and (xj, yj) are two feature-target samples drawn at random from the training data, λ∈[0, 1]. The mixup hyper-parameter α controls the strength of interpolation between feature-target pairs and λ∼Beta(α, α).
