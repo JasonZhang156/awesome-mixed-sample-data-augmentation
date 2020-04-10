@@ -20,9 +20,9 @@ where (xi, yi) and (xj, yj) are two feature-target samples drawn at random from 
 
 - **Training Pipeline**
 
-The simple and basic training pipeline is shown as the following figure,
+The simple and basic training pipeline is shown as the following Figure,
 
-![](/image/mixup_pipeline.png)
+![](/image/mixup_pipeline.png "Fig. 1 Mixup training pipeline")
 
 - **Code**
 
