@@ -4,12 +4,13 @@ This repo is a collection of awesome things about mixed sample data augmentation
 
 _ _ _
 
-## Basic Methods
+## Basic Method
 We introduce a basic usage of mixed sample data augmentation, which was first proposed in **mixup: Beyond Empirical Risk Minimization [[ICLR2018]](https://arxiv.org/abs/1710.09412) [[code]](https://github.com/facebookresearch/mixup-cifar10)**.
 
 In mixup, the virtual training feature-target samples are produced as,
 
-![](/image/mixup_formulation.png)
+x˜ = λxi + (1 − λ)xj
+y˜ = λyi + (1 − λ)yj
 
 where (xi, yi) and (xj, yj) are two feature-target samples drawn at random from the training data, λ∈[0, 1]. The mixup hyper-parameter α controls the strength of interpolation between feature-target pairs and λ∼Beta(α, α).
 
