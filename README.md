@@ -43,7 +43,7 @@ _ _ _
 ## Application
 ### Classification Tasks (Image, Text, Audio, ...)
 - Understanding and Enhancing Mixed Sample Data Augmentation [[Arxiv2020]](https://arxiv.org/abs/2002.12047) [[code]](https://github.com/ecs-vlc/FMix)
-- Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[ICASSP2020]]
+- Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[ICASSP2020]](https://arxiv.org/abs/2003.13048)
 - Cutmix: Regularization strategy to train strong classifiers with localizable features [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[code]](https://github.com/clovaai/CutMix-PyTorch)
 - Improved Mixed-Example Data Augmentation [[WACV2019]](https://arxiv.org/abs/1805.11272) [[code]](https://github.com/ceciliaresearch/MixedExample)
 - Manifold Mixup: Better Representations by Interpolating Hidden States [[ICML2019]](https://arxiv.org/abs/1806.05236) [[code]](https://github.com/vikasverma1077/manifold_mixup)
