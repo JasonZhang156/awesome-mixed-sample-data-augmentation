@@ -24,7 +24,7 @@ The simple and basic training pipeline is shown as the following Figure,
 
 ![](/image/mixup_pipeline.png)
 
-### Code
+### Core Code
 
 The few lines of code necessary to implement mixup training in PyTorch
 
