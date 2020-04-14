@@ -81,6 +81,7 @@ _ _ _
 
 ### Domain Adaptation
 - Improve Unsupervised Domain Adaptation with Mixup Training [[Arxiv2020]](https://arxiv.org/abs/2001.00677)
+- Adversarial Domain Adaptation with Domain Mixup [[AAAI2020]](https://arxiv.org/abs/1912.01805)
 
 ### Few-shot Learning
 - Charting the Right Manifold: Manifold Mixup for Few-shot Learning [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.pdf) [[code]](https://github.com/nupurkmr9/S2M2_fewshot)
