@@ -73,6 +73,7 @@ _ _ _
 - On mixup training: Improved calibration and predictive uncertainty for deep neural networks [[NeurIPS2019]](http://papers.nips.cc/paper/9540-on-mixup-training-improved-calibration-and-predictive-uncertainty-for-deep-neural-networks.pdf)
 
 ### Image Segmentation
+- Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation [[Arxiv2019]](https://arxiv.org/abs/1908.04126)
 - Improving Data Augmentation for Medical Image Segmentation [[MIDL2018]](https://openreview.net/pdf?id=rkBBChjiG)
 
 ### Generative Adversarial Networks
