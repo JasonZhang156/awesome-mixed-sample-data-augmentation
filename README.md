@@ -77,6 +77,7 @@ _ _ _
 - Improving Data Augmentation for Medical Image Segmentation [[MIDL2018]](https://openreview.net/pdf?id=rkBBChjiG)
 
 ### Generative Adversarial Networks
+- A U-Net Based Discriminator for Generative Adversarial Networks [[CVPR2020]](https://arxiv.org/abs/2002.12655)
 - Mixed batches and symmetric discriminators for GAN training [[ICML2018]](https://arxiv.org/abs/1806.07185)
 - mixup: Beyond Empirical Risk Minimization [[ICLR2018]](https://arxiv.org/abs/1710.09412) [[code]](https://github.com/facebookresearch/mixup-cifar10)
 
