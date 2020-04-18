@@ -55,8 +55,12 @@ _ _ _
 - Learning from between-class examples for deep sound recognition [[ICLR2018]](https://arxiv.org/abs/1711.10282) [[code]](https://github.com/mil-tokyo/bc_learning_sound/)
 - Between-class Learning for Image Classification [[CVPR2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tokozume_Between-Class_Learning_for_CVPR_2018_paper.pdf) [[code]](https://github.com/mil-tokyo/bc_learning_image/)
 - Data Augmentation by Pairing Samples for Images Classification [[Arxiv2018]](https://arxiv.org/abs/1801.02929)
+- Rare Sound Event Detection Using Deep Learning and Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1985.pdf)
 - Mixup Learning Strategies for Text-independent Speaker Verification [[Interspeech2019]](https://pdfs.semanticscholar.org/0bc3/f8c6bc1f3568aac96d3ad0632ebe41134611.pdf)
+- Acoustic Scene Classification with Mismatched Devices Using CliqueNets and
+Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3002.pdf)
 - Deep Convolutional Neural Network with Mixup for Environmental Sound Classification [[PRCV2018]](https://arxiv.org/abs/1808.08405)
+- Speaker Adaptive Training and Mixup Regularization for Neural Network Acoustic Models in Automatic Speech Recognition [[Interspeech2018]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2209.pdf)
 - An investigation of mixup training strategies for acoustic models in ASR [[Interspeech2018]](https://www.researchgate.net/profile/Ivan_Medennikov/publication/327389098_An_Investigation_of_Mixup_Training_Strategies_for_Acoustic_Models_in_ASR/links/5bc86248a6fdcc03c78f5a44/An-Investigation-of-Mixup-Training-Strategies-for-Acoustic-Models-in-ASR.pdf) [[code]](https://github.com/speechpro/mixup)
 - Understanding Mixup Training Methods [[IEEE ACCESS 2018]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159)
 
