@@ -91,3 +91,6 @@ Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/
 
 ### Few-shot Learning
 - Charting the Right Manifold: Manifold Mixup for Few-shot Learning [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Mangla_Charting_the_Right_Manifold_Manifold_Mixup_for_Few-shot_Learning_WACV_2020_paper.pdf) [[code]](https://github.com/nupurkmr9/S2M2_fewshot)
+
+### Machine Learning
+- An Experimental Evaluation of Mixup Regression Forests [[EXPERT SYST APPL 2020]](https://lucykuncheva.co.uk/papers/jrmjaalkeswa20.pdf)
