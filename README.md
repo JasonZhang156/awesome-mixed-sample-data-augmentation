@@ -42,6 +42,9 @@ _ _ _
 
 ## Application
 ### Classification Tasks (Image, Text, Audio, ...)
+- SuperMix: Supervising the Mixing Data Augmentation [[Arxiv2020]](https://arxiv.org/pdf/2003.05034.pdf) [[code]](https://github.com/alldbi/SuperMix)
+- Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization [[Arxiv2020]](https://arxiv.org/pdf/2003.02484.pdf)
+- Attribute Mix: Semantic Data Augmentation for Fine-grained Recognition [[Arxiv2020]](https://arxiv.org/pdf/2004.02684.pdf)
 - Understanding and Enhancing Mixed Sample Data Augmentation [[Arxiv2020]](https://arxiv.org/abs/2002.12047) [[code]](https://github.com/ecs-vlc/FMix)
 - Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[ICASSP2020]](https://arxiv.org/abs/2003.13048)
 - Cutmix: Regularization strategy to train strong classifiers with localizable features [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[code]](https://github.com/clovaai/CutMix-PyTorch)
@@ -65,20 +68,35 @@ Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/
 - Understanding Mixup Training Methods [[IEEE ACCESS 2018]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159)
 
 ### Semi-Supervised Learning
+- FocalMix: Semi-Supervised Learning for 3D Medical Image Detection [[Arxiv2020]](https://arxiv.org/pdf/2003.09108.pdf)
+- ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[ICLR2020]](https://arxiv.org/pdf/1911.09785.pdf) [[code]](https://github.com/google-research/remixmatch)
+- DivideMix: Learning with Noisy Labels as Semi-supervised Learning [[ICLR2020]](https://arxiv.org/pdf/2002.07394.pdf) [[code]](https://github.com/LiJunnan1992/DivideMix)
+- OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World [[Arxiv2020]](https://arxiv.org/pdf/2004.05551.pdf)
+- MixPUL: Consistency-based Augmentation for Positive and Unlabeled Learning [[Arxiv2020]](https://arxiv.org/pdf/2004.09388.pdf)
+- ROAM: Random Layer Mixup for Semi-Supervised Learning in Medical Imaging [[Arxiv2020]](https://arxiv.org/pdf/2003.09439.pdf)
 - Interpolation Consistency Training for Semi-Supervised Learning [[IJCAI2019]](https://arxiv.org/abs/1903.03825) [[code]](https://github.com/vikasverma1077/ICT)
 - Unifying semi-supervised and robust learning by mixup [[ICLR2019 Workshop]](https://openreview.net/pdf?id=r1gp1jRN_4)
 - Mixmatch: A holistic approach to semi-supervised learning [[NeurIPS2019]](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf) [[code]](https://github.com/google-research/mixmatch)
 - Semi-Supervised and Task-Driven Data Augmentation [[IPMI2019]](https://arxiv.org/abs/1902.05396)
 
-### Object Localization
+### Object Detection and Localization
+- Mixup Regularization for Region Proposal based Object Detectors [[Arxiv2020]](https://arxiv.org/pdf/2003.02065.pdf)
+- FocalMix: Semi-Supervised Learning for 3D Medical Image Detection [[Arxiv2020]](https://arxiv.org/pdf/2003.09108.pdf)
 - Cutmix: Regularization strategy to train strong classifiers with localizable features [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[code]](https://github.com/clovaai/CutMix-PyTorch)
 
 ### Natural Language Processing
 - On mixup training: Improved calibration and predictive uncertainty for deep neural networks [[NeurIPS2019]](http://papers.nips.cc/paper/9540-on-mixup-training-improved-calibration-and-predictive-uncertainty-for-deep-neural-networks.pdf)
 
 ### Image Segmentation
+- ROAM: Random Layer Mixup for Semi-Supervised Learning in Medical Imaging [[Arxiv2020]](https://arxiv.org/pdf/2003.09439.pdf)
 - Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation [[Arxiv2019]](https://arxiv.org/abs/1908.04126)
 - Improving Data Augmentation for Medical Image Segmentation [[MIDL2018]](https://openreview.net/pdf?id=rkBBChjiG)
+
+### Super Resolution
+- Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy [[Arxiv2020]](https://arxiv.org/pdf/2004.00448.pdf)
+
+### Novelty Detection
+- Multi-class Novelty Detection Using Mix-up Technique [[WACV2020]](http://openaccess.thecvf.com/content_WACV_2020/papers/Bhattacharjee_Multi-class_Novelty_Detection_Using_Mix-up_Technique_WACV_2020_paper.pdf) 
 
 ### Generative Adversarial Networks
 - A U-Net Based Discriminator for Generative Adversarial Networks [[CVPR2020]](https://arxiv.org/abs/2002.12655)
