@@ -49,9 +49,10 @@ _ _ _
 - Attribute Mix: Semantic Data Augmentation for Fine-grained Recognition [[Arxiv2020]](https://arxiv.org/pdf/2004.02684.pdf)
 - Understanding and Enhancing Mixed Sample Data Augmentation [[Arxiv2020]](https://arxiv.org/abs/2002.12047) [[code]](https://github.com/ecs-vlc/FMix)
 - Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification [[ICASSP2020]](https://arxiv.org/abs/2003.13048)
+- Mixup-breakdown: a consistency training method for improving generalization of speech separation models [[ICASSP2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054719)
 - Cutmix: Regularization strategy to train strong classifiers with localizable features [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf) [[code]](https://github.com/clovaai/CutMix-PyTorch)
 - Improved Mixed-Example Data Augmentation [[WACV2019]](https://arxiv.org/abs/1805.11272) [[code]](https://github.com/ceciliaresearch/MixedExample)
- - Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy [[Arxiv2019]](https://arxiv.org/pdf/1911.09307.pdf)
+- Patch-level Neighborhood Interpolation: A General and Effective Graph-based Regularization Strategy [[Arxiv2019]](https://arxiv.org/pdf/1911.09307.pdf)
 - Target-Directed MixUp for Labeling Tangut Characters [[ICDAR2019]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978040)
 - Manifold Mixup improves text recognition with CTC loss [[Arixv2019]](https://arxiv.org/pdf/1903.04246.pdf)
 - Manifold Mixup: Better Representations by Interpolating Hidden States [[ICML2019]](https://arxiv.org/abs/1806.05236) [[code]](https://github.com/vikasverma1077/manifold_mixup)
@@ -81,6 +82,7 @@ Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/
 - ROAM: Random Layer Mixup for Semi-Supervised Learning in Medical Imaging [[Arxiv2020]](https://arxiv.org/pdf/2003.09439.pdf)
 - Interpolation Consistency Training for Semi-Supervised Learning [[IJCAI2019]](https://arxiv.org/abs/1903.03825) [[code]](https://github.com/vikasverma1077/ICT)
 - RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms [[Arxiv2019]](https://arxiv.org/pdf/1912.08766.pdf) [[code]](https://github.com/uizard-technologies/realmix)
+- Unifying semi-supervised and robust learning by mixup [[ICLR Workshop 2019]](https://openreview.net/pdf?id=r1gp1jRN_4)
 - On Adversarial Mixup Resynthesis [[NeurIPS2019]](http://papers.nips.cc/paper/8686-on-adversarial-mixup-resynthesis.pdf) [[code]](https://github.com/christopher-beckham/amr)
 - Unifying semi-supervised and robust learning by mixup [[ICLR2019 Workshop]](https://openreview.net/pdf?id=r1gp1jRN_4)
 - Mixmatch: A holistic approach to semi-supervised learning [[NeurIPS2019]](https://papers.nips.cc/paper/8749-mixmatch-a-holistic-approach-to-semi-supervised-learning.pdf) [[code]](https://github.com/google-research/mixmatch)
@@ -119,3 +121,6 @@ Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/
 
 ### Machine Learning
 - An Experimental Evaluation of Mixup Regression Forests [[EXPERT SYST APPL 2020]](https://lucykuncheva.co.uk/papers/jrmjaalkeswa20.pdf)
+
+### Analysis
+- Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data [[Arxiv2019]](https://arxiv.org/pdf/1909.09148.pdf)
