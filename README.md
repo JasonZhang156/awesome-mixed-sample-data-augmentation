@@ -74,6 +74,7 @@ Mixup Data Augmentation [[Interspeech2019]](https://www.isca-speech.org/archive/
 - Understanding Mixup Training Methods [[IEEE ACCESS 2018]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8478159)
 
 ### Semi-Supervised Learning
+- Rethinking Image Mixture for Unsupervised Visual Representation Learning [[Arxiv2020]](https://arxiv.org/pdf/2003.05438.pdf)
 - FocalMix: Semi-Supervised Learning for 3D Medical Image Detection [[Arxiv2020]](https://arxiv.org/pdf/2003.09108.pdf)
 - ReMixMatch: Semi-Supervised Learning with Distribution Alignment and Augmentation Anchoring [[ICLR2020]](https://arxiv.org/pdf/1911.09785.pdf) [[code]](https://github.com/google-research/remixmatch)
 - DivideMix: Learning with Noisy Labels as Semi-supervised Learning [[ICLR2020]](https://arxiv.org/pdf/2002.07394.pdf) [[code]](https://github.com/LiJunnan1992/DivideMix)
